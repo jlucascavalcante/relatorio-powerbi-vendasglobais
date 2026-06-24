@@ -2,6 +2,10 @@
 
 Dashboard de análise de pedidos globais com foco em desempenho por categoria, subcategoria, país e prioridade de pedido — permitindo identificar padrões de desconto, concentração geográfica e distribuição de volume entre segmentos de clientes.
 
+## 📸 Preview do Dashboard
+
+![Preview do Dashboard](preview8.png)
+
 ---
 
 ## 🎯 Problema de negócio
