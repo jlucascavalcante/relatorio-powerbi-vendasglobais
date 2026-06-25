@@ -44,7 +44,7 @@ O relatório é composto por uma única página analítica com os seguintes visu
 ## 🛠️ Stack técnica
 
 - **Ferramenta:** Power BI Desktop
-- **Transformação de dados (Power Query):** limpeza e padronização da base, tratamento de tipos de dado, renomeação de colunas e remoção de campos não utilizados
+- **Transformação de dados (Power Query):** apenas os passos automáticos de importação (Origem, Cabeçalhos Promovidos e Tipo Alterado) — sem tratamento manual adicional
 - **Visualizações:** mapa geográfico (Bing Maps), gráfico de rosca, barras horizontais, barras empilhadas e cartão KPI
 - **Sem medidas DAX** — todas as agregações utilizam as funções nativas do Power BI
 
